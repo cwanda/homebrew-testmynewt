@@ -4,7 +4,7 @@ class Newt < Formula
   homepage "https://github.com/cwanda/incubator-mynewt-newt"
   url "https://github.com/apache/incubator-mynewt-newt.git",
       :tag => "mynewt_1_0_0_tag"
-      :revision => "c42ebdce8c278a00fa8d68ed342c45cd22e44dfb"
+
   version "1.0.0"
 
   head "https://github.com/apache/incubator-mynewt-newt.git"
